@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Davi Miguel</h1>
 <h3 align="center">A novice software developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davimss" alt="davimss" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davimss&column=-1&theme=discord&no-bg=true"" alt="davimss" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Git, Docker, CSS**
 

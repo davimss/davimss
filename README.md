@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img height="180em" src="DaviHeader.gif"/>
 </p>
 

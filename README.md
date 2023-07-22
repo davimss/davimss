@@ -1,5 +1,7 @@
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davimss&column=-1&theme=discord&no-bg=true"" alt="davimss" /></a> </p>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimss&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c2f0ff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimss&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=eafaff">
+</p>
 
 <h2>
   <img width="25px" src="https://i.imgur.com/k70nBye.png" />
@@ -13,7 +15,8 @@
 </p>
 
 <h3>
-    <img width="30px" src="https://win98icons.alexmeub.com/icons/png/network_internet_pcs_installer-4.png" />
+<p align="left">
+  <img width="30px" src="https://win98icons.alexmeub.com/icons/png/network_internet_pcs_installer-4.png" />
   Languages
 </h3>
 
@@ -24,10 +27,11 @@
   Design Tools
 </h3>
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davimss&show_icons=true&theme=dark&locale=en&layout=compact" alt="davimss" /></p>
+  <h3>
+     <img width="30px" src="https://win98icons.alexmeub.com/icons/png/world-2.png" />
+  Achievements
+</h3>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davimss&show_icons=true&theme=dark&locale=en" alt="davimss" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davimss&theme=dark" alt="davimss" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davimss&column=-1&theme=discord&no-bg=true" alt="davimss" /> </a> </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="180em" src="DaviHeader.gif"/>
+  <img height="250em" src="DaviHeader.gif"/>
 </p>
 
 <h2>

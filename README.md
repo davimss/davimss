@@ -33,7 +33,7 @@
   Achievements
 </h3>  
 
-<p align="left">>
+<p>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c2f0ff">
   <img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimss&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=eafaff">
 </p>

@@ -34,6 +34,6 @@
 </h3>  
 
 <p 
-align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=davimss&column=-1&theme=discord&no-bg=true" alt="davimss" /> </a> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimss&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c2f0ff">
+align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=davimss&column=-1&theme=discord&no-bg=true" alt="davimss" /> </a> <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimss&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c2f0ff">
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimss&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=eafaff">
 </p>
